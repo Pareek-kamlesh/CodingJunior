@@ -1,0 +1,2 @@
+# CodingJunior
+For assignment purpose
